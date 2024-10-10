@@ -20,16 +20,12 @@ Here are some ideas to get you started:
 <div align=center>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunukkim98&layout=compact&theme=tokyonight)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531/)
+  <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531/)-->
   
   ### 🌱 stack 🌱
-
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+  
   ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-  ![C♯](https://img.shields.io/badge/C♯-512BD4?style=flat-square&logo=csharp&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -40,17 +36,12 @@ Here are some ideas to get you started:
   ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
     
-  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-    
   ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-  ![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=flat-square&logo=dataspell&logoColor=white)
 
 </div>
 
 ### visit here!
 
-- Blog : [![블로그](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://baemsul.tistory.com)
-- Portfolio : [![노션](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://sh22h.notion.site/eb52a90acbe447ba86c88ced139b5318)
+- Blog : [![Static Badge](https://img.shields.io/badge/githubpages-CCCCCC?style=flat&logo=github&logoColor=222222)
+](https://raituc.github.io)
