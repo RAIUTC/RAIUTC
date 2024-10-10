@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 
 ### visit here!
 
-- Blog : [![Static Badge](https://img.shields.io/badge/githubpages-CCCCCC?style=flat&logo=github&logoColor=222222)
-]((https://sunukkim98.github.io/))
+- Blog : [![블로](https://img.shields.io/badge/githubpages-CCCCCC?style=flat&logo=github&logoColor=222222)](https://sunukkim98.github.io/)
