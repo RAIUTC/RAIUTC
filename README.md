@@ -43,5 +43,5 @@ Here are some ideas to get you started:
   
   <p>🏆 Baekjoon solved rank 🏆</p>
 	
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opqrs1107)](https://solved.ac/profile/syi05003)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syi05003)](https://solved.ac/profile/syi05003)
 </div>
