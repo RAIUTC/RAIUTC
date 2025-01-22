@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 - 뱃지 : https://simpleicons.org/
 -->
+### visit here!
+
+- Blog : [![블로](https://img.shields.io/badge/githubpages-CCCCCC?style=flat&logo=github&logoColor=222222)](https://sunukkim98.github.io/)
 <div align=center>
+
   <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531/)-->
   
   ### 🌱 stack 🌱
@@ -34,9 +38,10 @@ Here are some ideas to get you started:
     
   ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-
+  
+  ---
+  
+  <p>🏆 Baekjoon solved rank 🏆</p>
+	
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opqrs1107)](https://solved.ac/profile/syi05003)
 </div>
-
-### visit here!
-
-- Blog : [![블로](https://img.shields.io/badge/githubpages-CCCCCC?style=flat&logo=github&logoColor=222222)](https://sunukkim98.github.io/)
