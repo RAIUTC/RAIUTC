@@ -1,47 +1,9 @@
-### 안녕하세요 👋
+<p><pre align="center">
+<strong>Sunuk Kim</strong> / <a href="https://sunukkim98.github.io">Develop Blog</a> / <a href="https://github.com/sunukkim98">GitHub</a>
+</pre></p>
 
-> 저는 김선욱입니다. Graph AI, 추천 시스템, 인공지능, 데이터 마이닝 등 다양한 분야에 깊은 관심을 가지고 연구하고 있습니다.
-<!--
-**SH22Hwang/SH22Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 뱃지 : https://simpleicons.org/
--->
-### visit here!
-
-- Blog : [![블로](https://img.shields.io/badge/githubpages-CCCCCC?style=flat&logo=github&logoColor=222222)](https://sunukkim98.github.io/)
-<div align=center>
-
-  <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd3531)](https://solved.ac/ghkd3531/)-->
-  
-  ### 🌱 stack 🌱
-  
-  ![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-    
-  ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-  
-  ---
-  
-  <p>🏆 Baekjoon solved rank 🏆</p>
+<div align="center">
+<p>🏆 Baekjoon solved rank 🏆</p>
 	
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syi05003)](https://solved.ac/profile/syi05003)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syi05003)](https://solved.ac/profile/syi05003)
 </div>
